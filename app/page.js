@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>this my new app</div>
+    <div>this my new next js app</div>
   );
 }
