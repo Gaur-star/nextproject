@@ -1,7 +1,15 @@
-import Image from "next/image";
+// import Image from "next/image";
+// import css from "styled-jsx/css";
 
-export default function Home() {
+const Home = () => {
   return (
-    <div>this my new next js app</div>
+    <div>
+      <h3>
+        this my new next js app
+      </h3>
+    </div>
   );
 }
+
+
+export default Home;
