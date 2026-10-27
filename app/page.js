@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
       <h3>
-        this my new next js app
+         Welcome, to my new nextjs App!
       </h3>
     </div>
   );
