@@ -7,17 +7,6 @@ const contact = () => {
       <h3>
          Welcome, to my contact page!
       </h3>
-      <div>
-        <li>
-          <a href="/">About</a>
-        </li>
-        <li>
-          <a href="/">Contact</a>
-        </li>
-        <li>
-          <a href="/">Services</a>
-        </li>
-      </div>
     </div>
   );
 }

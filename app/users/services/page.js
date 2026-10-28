@@ -1,27 +1,15 @@
 // import Image from "next/image";
 // import css from "styled-jsx/css";
 
-const service = () => {
+const services = () => {
   return (
     <div>
       <h3>
-         Welcome, to my service page!
+         Welcome, to my Service page !!
       </h3>
-
-      <div>
-        <li>
-          <a href="/">About</a>
-        </li>
-        <li>
-          <a href="/">Contact</a>
-        </li>
-        <li>
-          <a href="/">Services</a>
-        </li>
-      </div>
     </div>
   );
 }
 
 
-export default service;
+export default services;
